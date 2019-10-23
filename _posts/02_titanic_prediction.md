@@ -1,3 +1,8 @@
+---
+title: "02_titanic_prediction"
+date: 2019-10-23 15:23:28 -0400
+categories: jekyll update
+---
 
 # Machine Learning Practice using Titanic example
 ## Orders
